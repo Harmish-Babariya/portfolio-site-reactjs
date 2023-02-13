@@ -26,8 +26,7 @@ const Footer = () => {
           </a>
         </div>
         <div>
-          {" "}
-          <span>harmishbabariya@gmail.com || Build with React Js</span>
+          <span><a href = "mailto: webharmish@gmail.com" style={{"text-decoration" : "none"}}>Send Email to webharmish@gmail.com</a> || Build with React Js</span>
         </div>
       </div>
     </div>

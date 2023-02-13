@@ -2,9 +2,9 @@ import React, { useContext } from "react";
 import "./Portfolio.css";
 import { Swiper, SwiperSlide } from "swiper/react"
 import "swiper/css";
-import Sidebar from "../../img/sidebar.png";
-import Ecommerce from "../../img/ecommerce.png";
-import HOC from "../../img/hoc.png";
+import Sidebar from "../../img/site1.png";
+import Ecommerce from "../../img/site2.png";
+import HOC from "../../img/site3.png";
 import MusicApp from "../../img/musicapp.png";
 import { themeContext } from "../../Context";
 const Portfolio = () => {
